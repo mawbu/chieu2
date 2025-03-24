@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "6600f3f8f1a9b2d6f3e4a111"
+  },
+  "username": "admin",
+  "password": "$2b$10$R9K8BfXrX1L5V/mG/Yo2/ucM4oZn6Y3CzVxhlTk3NksdXUEBrQx/S",
+  "email": "admin@example.com",
+  "fullName": "Admin User",
+  "avatarUrl": "https://example.com/avatar1.jpg",
+  "status": true,
+  "loginCount": 5,
+  "role": {
+    "$oid": "6600f3f8f1a9b2d6f3e4b001"
+  },
+  "createdAt": {
+    "$date": "2025-03-17T09:10:27.526Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T09:10:27.526Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600f3f8f1a9b2d6f3e4a112"
+  },
+  "username": "user1",
+  "password": "$2b$10$R9K8BfXrX1L5V/mG/Yo2/ucM4oZn6Y3CzVxhlTk3NksdXUEBrQx/S",
+  "email": "user1@example.com",
+  "fullName": "User One",
+  "avatarUrl": "https://example.com/avatar2.jpg",
+  "status": true,
+  "loginCount": 3,
+  "role": {
+    "$oid": "6600f3f8f1a9b2d6f3e4b002"
+  },
+  "createdAt": {
+    "$date": "2025-03-17T09:10:27.526Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T09:10:27.526Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6600f3f8f1a9b2d6f3e4a113"
+  },
+  "username": "user2",
+  "password": "$2b$10$R9K8BfXrX1L5V/mG/Yo2/ucM4oZn6Y3CzVxhlTk3NksdXUEBrQx/S",
+  "email": "user2@example.com",
+  "fullName": "User Two",
+  "avatarUrl": "https://example.com/avatar3.jpg",
+  "status": false,
+  "loginCount": 1,
+  "role": {
+    "$oid": "6600f3f8f1a9b2d6f3e4b002"
+  },
+  "createdAt": {
+    "$date": "2025-03-17T09:10:27.526Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T09:10:27.526Z"
+  }
+}]
